@@ -1,0 +1,30 @@
+# 1.这些变量只在函数内部可用.
+LOCAL
+# 2.这种函数会创建对象
+FUNCTION
+	正解:	CONSTRUCTOR
+# 3.函数可能包含也可能不包含这种语句.
+RETURN
+# 4.真正的全局对象.
+WINDOW
+# 5.用点操作符把属性和函数调用串在一起.
+/* 这题作者就没听懂. */
+	正解:CHAINING
+# 6.__对象表示DOM
+DOCUMENT
+# 7.window 中的一个属性,我们会为它赋一个处理函数.
+ONLOAD
+# 8.函数调用中要提供__.
+PARAMETER
+	正解:ARGUMENTS
+# 9.__操作符允许你访问一个对象的属性和方法.
+DOT
+# 10.按约定,构造函数名首字母__.
+CAPITALIT
+	正解:UPPERCASE
+# 11.实参按___传递.
+VALUE
+# 12.使用这个关键字开始一个函数定义
+FUNCTION
+# 13.对象方法中指示当前对象.
+THIS
