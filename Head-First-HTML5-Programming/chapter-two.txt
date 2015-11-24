@@ -28,3 +28,14 @@ VALUE
 FUNCTION
 # 13.对象方法中指示当前对象.
 THIS
+# 14.没有 return 语句的函数返回__.
+NULL
+	正确答案:UNDEFINED
+# 15.对象中的函数.
+METHOD
+# 16.变量作用域为到处可见.
+GLOBAL
+# 17.没有名的函数.
+ANONYMOUS
+# 18.函数定义中要提供
+PARAMETERS
